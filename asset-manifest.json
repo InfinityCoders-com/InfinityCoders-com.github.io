@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.eff8d2c5.css",
-    "main.js": "/static/js/main.91274dc8.js",
+    "main.js": "/static/js/main.4ba4d335.js",
     "static/js/453.90a558ab.chunk.js": "/static/js/453.90a558ab.chunk.js",
     "static/media/Abhi-Weds-Swati-1.png": "/static/media/Abhi-Weds-Swati-1.54ced7c931fbba3ce738.png",
     "static/media/Swati-Weds-Abhi-1.png": "/static/media/Swati-Weds-Abhi-1.54ced7c931fbba3ce738.png",
-    "static/media/Abhi-Weds-Swati-4.png": "/static/media/Abhi-Weds-Swati-4.890194f53fd53fdbd552.png",
-    "static/media/Swati-Weds-Abhi-4.png": "/static/media/Swati-Weds-Abhi-4.890194f53fd53fdbd552.png",
     "static/media/png": "/static/media/1f2f1c58e718173003e3b00857fcb4fc.fb0450a23291dd6104d5.png",
+    "static/media/Abhi-Weds-Swati-4.png": "/static/media/Abhi-Weds-Swati-4.5b92c4b0dde2fe86c0b1.png",
+    "static/media/Swati-Weds-Abhi-4.png": "/static/media/Swati-Weds-Abhi-4.b9beb4af4b5bfb52a6b0.png",
     "static/media/Abhi-Weds-Swati-2.png": "/static/media/Abhi-Weds-Swati-2.2fc938a084f56cf29fa9.png",
     "static/media/Swati-Weds-Abhi-2.png": "/static/media/Swati-Weds-Abhi-2.b49dd4c8ab4bb55f6328.png",
-    "static/media/Abhi-Weds-Swati-3.png": "/static/media/Abhi-Weds-Swati-3.271da9072449b1ff9ea0.png",
-    "static/media/Swati-Weds-Abhi-3.png": "/static/media/Swati-Weds-Abhi-3.cb55b0fd7051bb74cdc6.png",
+    "static/media/Abhi-Weds-Swati-3.png": "/static/media/Abhi-Weds-Swati-3.6f32ea15cd3a4c3e6a0b.png",
+    "static/media/Swati-Weds-Abhi-3.png": "/static/media/Swati-Weds-Abhi-3.78de995128f1377d259b.png",
     "static/media/antique-paper.png": "/static/media/antique-paper.f3df4937804e0b6d68dd.png",
     "static/media/Abhi-Weds-Swati-5.png": "/static/media/Abhi-Weds-Swati-5.f2871aca2bb206e33841.png",
     "static/media/Swati-Weds-Abhi-5.png": "/static/media/Swati-Weds-Abhi-5.f2871aca2bb206e33841.png",
@@ -56,11 +56,11 @@
     "static/media/azn3iwkwd.webp": "/static/media/azn3iwkwd.60e8d1d89a51b8b267b2.webp",
     "index.html": "/index.html",
     "main.eff8d2c5.css.map": "/static/css/main.eff8d2c5.css.map",
-    "main.91274dc8.js.map": "/static/js/main.91274dc8.js.map",
+    "main.4ba4d335.js.map": "/static/js/main.4ba4d335.js.map",
     "453.90a558ab.chunk.js.map": "/static/js/453.90a558ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eff8d2c5.css",
-    "static/js/main.91274dc8.js"
+    "static/js/main.4ba4d335.js"
   ]
 }
