@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.9a6266a1.css",
-    "main.js": "/static/js/main.f8943b43.js",
+    "main.js": "/static/js/main.40603282.js",
     "static/js/453.f32d3f58.chunk.js": "/static/js/453.f32d3f58.chunk.js",
     "static/media/night-skyline.jpg": "/static/media/night-skyline.f624144ebee13dfbba43.jpg",
     "index.html": "/index.html",
     "main.9a6266a1.css.map": "/static/css/main.9a6266a1.css.map",
-    "main.f8943b43.js.map": "/static/js/main.f8943b43.js.map",
+    "main.40603282.js.map": "/static/js/main.40603282.js.map",
     "453.f32d3f58.chunk.js.map": "/static/js/453.f32d3f58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a6266a1.css",
-    "static/js/main.f8943b43.js"
+    "static/js/main.40603282.js"
   ]
 }
